@@ -23,7 +23,7 @@ Welcome to my corner of GitHub! I'm a **Flutter developer** with a passion for c
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MoazSalem&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MoazSalem&include_all_commits=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MoazSalem&layout=compact&langs_count=8&card_width=320&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
 </p>
 
