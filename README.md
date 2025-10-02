@@ -26,6 +26,7 @@ Welcome to my corner of GitHub! I'm a **Flutter developer** with a passion for c
 * 📗 Currently Reading: **The Object-Oriented Thought Process**.
 * 📦 Love exploring Architecture Patterns, Challenging UI/UXs and Animations.
 * 🌍 Based in Egypt | Open to remote work globally.
+* ⚡ Fun Fact: My Gamertag is **KillerBurger**
 
 #
 
